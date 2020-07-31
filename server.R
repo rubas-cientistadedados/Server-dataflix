@@ -1,7 +1,7 @@
 
 library("rjson")
 
-#* @get /categorias
+#* @get /categories
 categories <- function() {
 
   #' Returns categories in a json file
